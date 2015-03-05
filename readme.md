@@ -9,6 +9,6 @@ The application uses:
 * AngularJS
 * TypeScript
 * adal.js (Azure AD client-side script)
-* Various Office 365 cloud services (One Drive for Business and more)
+* Various Office 365 cloud services (OneDrive for Business and more)
 
 The application was written by [Andrew Connell](http://twitter.com/andrewconnell) and [Dan Wahlin](http://twitter.com/danwahlin).
