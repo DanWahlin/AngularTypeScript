@@ -1,4 +1,4 @@
-Expense Manager with AngularJS and TypeScript
+Expense Manager with Angular and TypeScript
 ===============
 
 This application was originally written in JavaScript and then converted to
@@ -6,7 +6,7 @@ TypeScript to show how TS can be used in Angular applications.
 
 The application uses:
 
-* AngularJS
+* Angular
 * TypeScript
 * adal.js (Azure AD client-side script)
 * Various Office 365 cloud services (OneDrive for Business and more)
